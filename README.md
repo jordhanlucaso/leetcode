@@ -11,8 +11,8 @@ Completed Problems
 2. Running Sum of 1d Array: https://leetcode.com/problems/running-sum-of-1d-array/
 [Solution](./runningSum.js)
 3. Richest Customer Wealth: https://leetcode.com/problems/richest-customer-wealth/
-[Solution](./richestCustomer.js)
-4.Counter: https://leetcode.com/problems/counter/
+[Solution](./richestCustomer.js)  
+4. Counter: https://leetcode.com/problems/counter/
 [Solution](./counter.js)
 5. Sleep: https://leetcode.com/problems/sleep/
 [Solution](./sleep.js.js)
